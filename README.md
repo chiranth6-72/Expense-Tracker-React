@@ -1,6 +1,10 @@
 # Expense Tracker in React
 
-Project Tutorial by Traversy Media
+Technologies Used
 
+* React
+* Vite
 
-[Link](https://youtu.be/XuFDcZABiDQ)
+This Website is styled with native CSS and als0 uses concept of Context API to manage states.
+
+Resources Used: [Traversy Media](https://youtu.be/XuFDcZABiDQ)
